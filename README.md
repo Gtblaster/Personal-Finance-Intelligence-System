@@ -1,4 +1,5 @@
 # Personal-Finance-Intelligence-System
 For High Income Standard
-With High Professnal
-Digital Data Accessble
+With High Professinal
+Digital Data Accessible
+Personal Finasess
