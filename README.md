@@ -1,2 +1,3 @@
 # Personal-Finance-Intelligence-System
-For High Income Standerd
+For High Income Standard
+With High Professnal
